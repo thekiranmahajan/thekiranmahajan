@@ -1,6 +1,6 @@
 <h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Kiran Mahajan</h1>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=lexend&weight=600&size=33&duration=7000&pause=1000&color=C0FF72&center=true&random=false&width=1200&lines=Frontend+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF6723&center=true&vCenter=true&random=false&width=1200&lines=Frontend+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
 
 ### 🧑🏻‍💻 About me
 
