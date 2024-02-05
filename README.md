@@ -29,7 +29,10 @@
 
 
 ### 🔥 Streaks   
-<p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=thekiranmahajan" alt="Streaks" /> </p>
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=thekiranmahajan&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=00000000&ring=FF8800&stroke=FF8800&fire=FF8800&sideNums=FF8800&currStreakNum=FF8800&currStreakLabel=FF8800&dates=FF8800&sideLabels=FF8800" alt="Kiran Mahajan's Streaks" /> </p>
+
+<!--- <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=thekiranmahajan" alt="Streaks" /> </p>  --->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thekiranmahajan&label=Profile%20views&color=FF8800&style=flat" alt="Profile Views" /> </p>
 
