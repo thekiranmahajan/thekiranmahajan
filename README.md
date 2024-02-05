@@ -31,12 +31,12 @@
 ### 🔥 Streaks   
 <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=thekiranmahajan" alt="Streaks" /> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thekiranmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thekiranmahajan&label=Profile%20views&color=FF8800&style=flat" alt="Profile Views" /> </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 📈 Activity 
 
-![Kiran Mahajan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thekiranmahajan&custom_title=Kiran's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF8800&line=FF8800&point=FF8800&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
+![Kiran Mahajan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thekiranmahajan&custom_title=Kiran's%20GitHub%20Activity%20Graph&bg_color=transperant&color=FF8800&line=FF8800&point=FF8800&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true&radius=10)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
