@@ -2,7 +2,7 @@
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF8800&center=true&vCenter=true&random=false&width=1200&lines=Frontend+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB) -->
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF8800&center=true&vCenter=true&random=false&width=1000&lines=Frontend+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Kiran Mahajan typing animation" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF8800&center=true&vCenter=true&random=false&width=1000&lines=Frontend+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Kiran Mahajan typing animation" width="100%"/> </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -25,14 +25,14 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="JavaScript" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="JavaScript" width="100%" /> </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 ### 🔥 Streaks   
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=thekiranmahajan&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=00000000&ring=FF8800&stroke=FF8800&fire=FF8800&sideNums=FF8800&currStreakNum=FF8800&currStreakLabel=FF8800&dates=FF8800&sideLabels=FF8800" alt="Kiran Mahajan's Streaks" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=thekiranmahajan&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=00000000&ring=FF8800&stroke=FF8800&fire=FF8800&sideNums=FF8800&currStreakNum=FF8800&currStreakLabel=FF8800&dates=FF8800&sideLabels=FF8800" alt="Kiran Mahajan's Streaks" width="100%" /> </p>
 
 <!--- <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=thekiranmahajan" alt="Streaks" /> </p>  --->
 
