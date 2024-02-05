@@ -35,8 +35,8 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 📈 Activity
+### 📈 Activity 
 
-![Kiran Mahajan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thekiranmahajan&custom_title=Kiran's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=0ADDA1&line=0ADDA1&point=0ADDA1&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Kiran Mahajan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thekiranmahajan&custom_title=Kiran's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FF8800&line=FF8800&point=FF8800&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
