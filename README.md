@@ -34,3 +34,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thekiranmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+### 📈 Activity
+
+![Kiran Mahajan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thekiranmahajan&custom_title=Kiran's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=0ADDA1&line=0ADDA1&point=0ADDA1&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
