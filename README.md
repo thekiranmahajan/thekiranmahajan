@@ -10,7 +10,7 @@
 
 - 📍 I live in Maharashtra, India
 
-- 💻 I am currently working on **[Tandoori-Js](https://github.com/thekiranmahajan/tandoori-js)**
+- 💻 I am currently working on **[Tandoori-Js](https://github.com/thekiranmahajan/tandoori-js)** **[FundVerse](https://github.com/thekiranmahajan/FundVerse)** **[witChat](https://github.com/thekiranmahajan/wit-chat)**
 
 - 💬 Ask me about **JavaScript, React.js, Tailwind CSS, HTML, CSS**
 
