@@ -25,6 +25,12 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+### ♻️ Most Used Languages
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekiranmahajan&card_width=900&bg_color=00000000&border_radius=0&hide_border=true&text_color=FF8800&hide_title=true" alt="Top Languages"  height="350" /> </p>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="JavaScript" width="100%" /> </p>
 
