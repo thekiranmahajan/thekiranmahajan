@@ -27,7 +27,7 @@
 
 ### ♻️ Most Used Languages
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekiranmahajan&card_width=900&bg_color=00000000&border_radius=0&hide_border=true&text_color=FF8800&hide_title=true" alt="Top Languages"  height="350" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekiranmahajan&card_width=900&bg_color=00000000&border_radius=0&hide_border=true&text_color=FF8800&hide_title=true" alt="Top Languages"   /> </p>
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
