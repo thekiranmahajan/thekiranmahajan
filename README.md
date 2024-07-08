@@ -1,8 +1,8 @@
-<h1 align="center"> Hello,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Kiran Mahajan</h1>
+<img src="https://github.com/thekiranmahajan/thekiranmahajan/assets/91893931/3832b9e7-e9d4-424f-8451-b70297c056f2" width="100%">
 
-<!-- ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF8800&center=true&vCenter=true&random=false&width=1200&lines=Frontend+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB) -->
+<h1 align="center"> 🌸Konnichiwa,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Kiran Mahajan</h1>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=FF8800&center=true&vCenter=true&random=false&width=1000&lines=Frontend+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;+Software+Developer+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Kiran Mahajan typing animation" width="100%"/> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=27&pause=1000&color=6F01EC&center=true&vCenter=true&random=true&width=1000&height=35&lines=Software+Development+Engineer;Frontend+Developer;React+Developer;Web+Developer)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
