@@ -26,28 +26,24 @@
 
 ### ♻️ Most Used Languages
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekiranmahajan&card_width=900&bg_color=00000000&border_radius=0&hide_border=true&text_color=FF8800&hide_title=true" alt="Top Languages"   /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekiranmahajan&card_width=900&bg_color=00000000&border_radius=0&hide_border=true&text_color=6F01Ec&hide_title=true" alt="Top Languages"   /> </p>
 
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="JavaScript" width="100%" /> </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
 ### 🔥 Streaks   
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=thekiranmahajan&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=00000000&ring=FF8800&stroke=FF8800&fire=FF8800&sideNums=FF8800&currStreakNum=FF8800&currStreakLabel=FF8800&dates=FF8800&sideLabels=FF8800" alt="Kiran Mahajan's Streaks" width="100%" /> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=thekiranmahajan&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=1000&background=00000000&ring=6F01Ec&stroke=6F01Ec&fire=6F01Ec&sideNums=6F01Ec&currStreakNum=6F01Ec&currStreakLabel=6F01Ec&dates=6F01Ec&sideLabels=6F01Ec" alt="Kiran Mahajan's Streaks" width="100%" /> </p>
 
 <!--- <p align="center"> <img src="http://github-readme-streak-stats.herokuapp.com?user=thekiranmahajan" alt="Streaks" /> </p>  --->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thekiranmahajan&label=Profile%20views&color=FF8800&style=flat" alt="Profile Views" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thekiranmahajan&label=Profile%20views&color=6F01Ec&style=flat" alt="Profile Views" /> </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 📈 Activity 
 
-![Kiran Mahajan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thekiranmahajan&custom_title=Kiran's%20GitHub%20Activity%20Graph&bg_color=transperant&color=FF8800&line=FF8800&point=FF8800&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true&radius=10)
+![Kiran Mahajan's Graph](https://github-readme-activity-graph.vercel.app/graph?username=thekiranmahajan&custom_title=Kiran's%20GitHub%20Activity%20Graph&bg_color=transperant&color=6F01Ec&line=6F01Ec&point=6F01Ec&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true&radius=10)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
