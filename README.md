@@ -1,17 +1,16 @@
 <img src="https://github.com/thekiranmahajan/thekiranmahajan/assets/91893931/3832b9e7-e9d4-424f-8451-b70297c056f2" width="100%">
 
-<h1 align="center"> 🌸Konnichiwa,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Kiran Mahajan</h1>
+<h2 align="center"> 🌸Konnichiwa,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Kiran Mahajan</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=27&pause=1000&color=6F01EC&center=true&vCenter=true&random=true&width=1000&height=35&lines=Software+Development+Engineer;Frontend+Developer;React+Developer;Web+Developer)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=27&pause=1000&color=6F01EC&center=true&vCenter=true&random=true&width=1000&height=35&lines=Software+Development+Engineer;Frontend+Developer;React+Developer;Web+Developer)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🧑🏻‍💻 About me
 
 - 📍 I live in Maharashtra, India
-
+- 🏢 I work at ansrsource as Junior Developer Intern
 - 💻 I am currently working on **[Tandoori-Js](https://github.com/thekiranmahajan/tandoori-js)** **[witChat](https://github.com/thekiranmahajan/wit-chat)**
-
 - 💬 Ask me about **JavaScript, React.js, Tailwind CSS, HTML, CSS**
 -  **[![Resume](https://img.shields.io/badge/Resume_KiranMahajan-6F01Ec?style=flat&logo=gdrive&logoColor=white&link=https://drive.google.com/drive/folders/1EhjaoEI24pt8HgkSZBxTYydCtJ-XGdWs?usp=sharing)](https://drive.google.com/drive/folders/1EhjaoEI24pt8HgkSZBxTYydCtJ-XGdWs?usp=sharing)**
 
