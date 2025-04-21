@@ -8,7 +8,7 @@
 ### 🧑🏻‍💻 About me
 
 - 📍 I live in Maharashtra, India
-- 🏢 I work at ansrsource as a Junior Developer Intern
+- 🏢 I work at ansrsource as a Developer.
 - 💻 I am currently working on **[Portfolio](https://github.com/thekiranmahajan/thekiranmahajan.github.io)** **[WitChat 2.o](https://github.com/thekiranmahajan/witchat2.o)**
 - 💬 Ask me about **JavaScript, React.js, Tailwind CSS, HTML, CSS**
 -  **[![Resume](https://img.shields.io/badge/Resume_KiranMahajan-6F01Ec?style=flat&logo=gdrive&logoColor=white&link=https://drive.google.com/drive/folders/1EhjaoEI24pt8HgkSZBxTYydCtJ-XGdWs?usp=sharing)](https://drive.google.com/drive/folders/1EhjaoEI24pt8HgkSZBxTYydCtJ-XGdWs?usp=sharing)**
